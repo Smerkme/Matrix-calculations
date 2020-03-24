@@ -1,0 +1,129 @@
+D:\MYLIBRARY\0. Courses\Curse C#\0. 2019 C# Baki\2018 ISRPPS +++\DataTableTest\bin\Debug\DataTableTest.exe.config
+D:\MYLIBRARY\0. Courses\Curse C#\0. 2019 C# Baki\2018 ISRPPS +++\DataTableTest\bin\Debug\DataTableTest.exe
+D:\MYLIBRARY\0. Courses\Curse C#\0. 2019 C# Baki\2018 ISRPPS +++\DataTableTest\bin\Debug\DataTableTest.pdb
+D:\MYLIBRARY\0. Courses\Curse C#\0. 2019 C# Baki\2018 ISRPPS +++\DataTableTest\obj\Debug\DataTableTest.csprojAssemblyReference.cache
+D:\MYLIBRARY\0. Courses\Curse C#\0. 2019 C# Baki\2018 ISRPPS +++\DataTableTest\obj\Debug\DataTableTest.Properties.Resources.resources
+D:\MYLIBRARY\0. Courses\Curse C#\0. 2019 C# Baki\2018 ISRPPS +++\DataTableTest\obj\Debug\DataTableTest.csproj.GenerateResource.cache
+D:\MYLIBRARY\0. Courses\Curse C#\0. 2019 C# Baki\2018 ISRPPS +++\DataTableTest\obj\Debug\DataTableTest.exe
+D:\MYLIBRARY\0. Courses\Curse C#\0. 2019 C# Baki\2018 ISRPPS +++\DataTableTest\obj\Debug\DataTableTest.pdb
+D:\MYLIBRARY\0. Courses\Curse C#\0. 2019 C# Baki\2018 ISRPPS +++\DataTableTest\obj\Debug\DataTableTest.Form1.resources
+D:\MYLIBRARY\0. Courses\Curse C#\++ 2020 Matix Project\DataTableTest\bin\Debug\DataTableTest.exe.config
+D:\MYLIBRARY\0. Courses\Curse C#\++ 2020 Matix Project\DataTableTest\bin\Debug\DataTableTest.exe
+D:\MYLIBRARY\0. Courses\Curse C#\++ 2020 Matix Project\DataTableTest\bin\Debug\DataTableTest.pdb
+D:\MYLIBRARY\0. Courses\Curse C#\++ 2020 Matix Project\DataTableTest\obj\Debug\DataTableTest.csprojAssemblyReference.cache
+D:\MYLIBRARY\0. Courses\Curse C#\++ 2020 Matix Project\DataTableTest\obj\Debug\DataTableTest.Form1.resources
+D:\MYLIBRARY\0. Courses\Curse C#\++ 2020 Matix Project\DataTableTest\obj\Debug\DataTableTest.Properties.Resources.resources
+D:\MYLIBRARY\0. Courses\Curse C#\++ 2020 Matix Project\DataTableTest\obj\Debug\DataTableTest.csproj.GenerateResource.cache
+D:\MYLIBRARY\0. Courses\Curse C#\++ 2020 Matix Project\DataTableTest\obj\Debug\DataTableTest.exe
+D:\MYLIBRARY\0. Courses\Curse C#\++ 2020 Matix Project\DataTableTest\obj\Debug\DataTableTest.pdb
+E:\DataTableTest\bin\Debug\DataTableTest.exe.config
+E:\DataTableTest\obj\Debug\DataTableTest.exe
+E:\DataTableTest\obj\Debug\DataTableTest.pdb
+E:\DataTableTest\bin\Debug\DataTableTest.exe
+E:\DataTableTest\bin\Debug\DataTableTest.pdb
+E:\DataTableTest\obj\Debug\DataTableTest.csprojResolveAssemblyReference.cache
+E:\DataTableTest\obj\Debug\DataTableTest.Form1.resources
+E:\DataTableTest\obj\Debug\DataTableTest.Properties.Resources.resources
+E:\DataTableTest\obj\Debug\DataTableTest.csproj.GenerateResource.Cache
+G:\DataTableTest\bin\Debug\DataTableTest.exe.config
+G:\DataTableTest\obj\Debug\DataTableTest.exe
+G:\DataTableTest\obj\Debug\DataTableTest.pdb
+G:\DataTableTest\bin\Debug\DataTableTest.exe
+G:\DataTableTest\bin\Debug\DataTableTest.pdb
+G:\DataTableTest\bin\Debug\mscorlib.dll
+G:\DataTableTest\bin\Debug\System.Net.Http.dll
+G:\DataTableTest\bin\Debug\System.Net.Http.xml
+G:\DataTableTest\bin\Debug\ru\mscorlib.resources.dll
+G:\DataTableTest\bin\Debug\ru\System.Net.Http.resources.dll
+G:\DataTableTest\bin\Debug\normidna.nlp
+G:\DataTableTest\bin\Debug\normnfc.nlp
+G:\DataTableTest\bin\Debug\normnfd.nlp
+G:\DataTableTest\bin\Debug\normnfkc.nlp
+G:\DataTableTest\bin\Debug\normnfkd.nlp
+G:\DataTableTest\obj\Debug\DataTableTest.csprojResolveAssemblyReference.cache
+G:\DataTableTest\obj\Debug\DataTableTest.Form1.resources
+G:\DataTableTest\obj\Debug\DataTableTest.Properties.Resources.resources
+G:\DataTableTest\obj\Debug\DataTableTest.csproj.GenerateResource.Cache
+C:\Users\alex\Desktop\DataTableProject\DataTableTest\obj\Debug\DataTableTest.csprojResolveAssemblyReference.cache
+C:\Users\alex\Desktop\DataTableProject\DataTableTest\obj\Debug\DataTableTest.Form1.resources
+C:\Users\alex\Desktop\DataTableProject\DataTableTest\obj\Debug\DataTableTest.Properties.Resources.resources
+C:\Users\alex\Desktop\DataTableProject\DataTableTest\obj\Debug\DataTableTest.csproj.GenerateResource.cache
+C:\Users\alex\Desktop\DataTableProject\DataTableTest\obj\Debug\DataTableTest.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\DataTableProject\DataTableTest\obj\Debug\DataTableTest.exe
+C:\Users\alex\Desktop\DataTableProject\DataTableTest\obj\Debug\DataTableTest.pdb
+C:\Users\alex\Desktop\DataTableProject\DataTableTest\bin\Debug\DataTableTest.exe.config
+C:\Users\alex\Desktop\DataTableProject\DataTableTest\bin\Debug\DataTableTest.exe
+C:\Users\alex\Desktop\DataTableProject\DataTableTest\bin\Debug\DataTableTest.pdb
+C:\Users\Даниил\Desktop\Pool DataTable1\DataTableTest\obj\Debug\DataTableTest.csprojAssemblyReference.cache
+C:\Users\Даниил\Desktop\Pool DataTable1\DataTableTest\obj\Debug\DataTableTest.Properties.Resources.resources
+C:\Users\Даниил\Desktop\Pool DataTable1\DataTableTest\obj\Debug\DataTableTest.csproj.GenerateResource.cache
+C:\Users\Даниил\Desktop\Pool DataTable1\DataTableTest\obj\Debug\DataTableTest.exe
+C:\Users\Даниил\Desktop\Pool DataTable1\DataTableTest\obj\Debug\DataTableTest.pdb
+C:\Users\Даниил\Desktop\Pool DataTable1\DataTableTest\bin\Debug\DataTableTest.exe.config
+C:\Users\Даниил\Desktop\Pool DataTable1\DataTableTest\bin\Debug\DataTableTest.exe
+C:\Users\Даниил\Desktop\Pool DataTable1\DataTableTest\bin\Debug\DataTableTest.pdb
+C:\Users\Даниил\Desktop\Pool DataTable1\DataTableTest\obj\Debug\DataTableTest.BinaryOperation.resources
+C:\Users\Даниил\Desktop\Pool DataTable1\DataTableTest\obj\Debug\DataTableTest.UnaryOperation.resources
+C:\Users\Даниил\Desktop\Pool DataTable1 — КОПИЯ\DataTableTest\bin\Debug\DataTableTest.exe.config
+C:\Users\Даниил\Desktop\Pool DataTable1 — КОПИЯ\DataTableTest\bin\Debug\DataTableTest.exe
+C:\Users\Даниил\Desktop\Pool DataTable1 — КОПИЯ\DataTableTest\bin\Debug\DataTableTest.pdb
+C:\Users\Даниил\Desktop\Pool DataTable1 — КОПИЯ\DataTableTest\obj\Debug\DataTableTest.csprojAssemblyReference.cache
+C:\Users\Даниил\Desktop\Pool DataTable1 — КОПИЯ\DataTableTest\obj\Debug\DataTableTest.BinaryOperation.resources
+C:\Users\Даниил\Desktop\Pool DataTable1 — КОПИЯ\DataTableTest\obj\Debug\DataTableTest.Form1.resources
+C:\Users\Даниил\Desktop\Pool DataTable1 — КОПИЯ\DataTableTest\obj\Debug\DataTableTest.Properties.Resources.resources
+C:\Users\Даниил\Desktop\Pool DataTable1 — КОПИЯ\DataTableTest\obj\Debug\DataTableTest.UnaryOperation.resources
+C:\Users\Даниил\Desktop\Pool DataTable1 — КОПИЯ\DataTableTest\obj\Debug\DataTableTest.csproj.GenerateResource.cache
+C:\Users\Даниил\Desktop\Pool DataTable1 — КОПИЯ\DataTableTest\obj\Debug\DataTableTest.exe
+C:\Users\Даниил\Desktop\Pool DataTable1 — КОПИЯ\DataTableTest\obj\Debug\DataTableTest.pdb
+C:\Users\Даниил\Desktop\Pool DataTable1 — КОПИЯ\DataTableTest\obj\Debug\DataTableTest.View.BlockMatrixes.resources
+C:\Users\Даниил\Desktop\Pool DataTable1\DataTableTest\obj\Debug\DataTableTest.View.BlockMatrixes.resources
+C:\Users\Даниил\Desktop\Pool DataTable1\DataTableTest\obj\Debug\DataTableTest.Form1.resources
+C:\Users\Даниил\Desktop\Pool DataTable1 — копия — копия\DataTableTest\bin\Debug\DataTableTest.exe.config
+C:\Users\Даниил\Desktop\Pool DataTable1 — копия — копия\DataTableTest\bin\Debug\DataTableTest.exe
+C:\Users\Даниил\Desktop\Pool DataTable1 — копия — копия\DataTableTest\bin\Debug\DataTableTest.pdb
+C:\Users\Даниил\Desktop\Pool DataTable1 — копия — копия\DataTableTest\obj\Debug\DataTableTest.csprojAssemblyReference.cache
+C:\Users\Даниил\Desktop\Pool DataTable1 — копия — копия\DataTableTest\obj\Debug\DataTableTest.BinaryOperation.resources
+C:\Users\Даниил\Desktop\Pool DataTable1 — копия — копия\DataTableTest\obj\Debug\DataTableTest.View.BlockMatrixes.resources
+C:\Users\Даниил\Desktop\Pool DataTable1 — копия — копия\DataTableTest\obj\Debug\DataTableTest.View.DataSetForm.resources
+C:\Users\Даниил\Desktop\Pool DataTable1 — копия — копия\DataTableTest\obj\Debug\DataTableTest.Form1.resources
+C:\Users\Даниил\Desktop\Pool DataTable1 — копия — копия\DataTableTest\obj\Debug\DataTableTest.Properties.Resources.resources
+C:\Users\Даниил\Desktop\Pool DataTable1 — копия — копия\DataTableTest\obj\Debug\DataTableTest.UnaryOperation.resources
+C:\Users\Даниил\Desktop\Pool DataTable1 — копия — копия\DataTableTest\obj\Debug\DataTableTest.csproj.GenerateResource.cache
+C:\Users\Даниил\Desktop\Pool DataTable1 — копия — копия\DataTableTest\obj\Debug\DataTableTest.exe
+C:\Users\Даниил\Desktop\Pool DataTable1 — копия — копия\DataTableTest\obj\Debug\DataTableTest.pdb
+C:\Users\alex\Desktop\Pool DataTable\1\DataTableTest\bin\Debug\DataTableTest.exe.config
+C:\Users\alex\Desktop\Pool DataTable\1\DataTableTest\bin\Debug\DataTableTest.exe
+C:\Users\alex\Desktop\Pool DataTable\1\DataTableTest\bin\Debug\DataTableTest.pdb
+C:\Users\alex\Desktop\Pool DataTable\1\DataTableTest\obj\Debug\DataTableTest.csprojResolveAssemblyReference.cache
+C:\Users\alex\Desktop\Pool DataTable\1\DataTableTest\obj\Debug\DataTableTest.BinaryOperation.resources
+C:\Users\alex\Desktop\Pool DataTable\1\DataTableTest\obj\Debug\DataTableTest.View.BlockMatrixes.resources
+C:\Users\alex\Desktop\Pool DataTable\1\DataTableTest\obj\Debug\DataTableTest.View.DataSetForm.resources
+C:\Users\alex\Desktop\Pool DataTable\1\DataTableTest\obj\Debug\DataTableTest.Form1.resources
+C:\Users\alex\Desktop\Pool DataTable\1\DataTableTest\obj\Debug\DataTableTest.Properties.Resources.resources
+C:\Users\alex\Desktop\Pool DataTable\1\DataTableTest\obj\Debug\DataTableTest.UnaryOperation.resources
+C:\Users\alex\Desktop\Pool DataTable\1\DataTableTest\obj\Debug\DataTableTest.csproj.GenerateResource.cache
+C:\Users\alex\Desktop\Pool DataTable\1\DataTableTest\obj\Debug\DataTableTest.csproj.CoreCompileInputs.cache
+C:\Users\alex\Desktop\Pool DataTable\1\DataTableTest\obj\Debug\DataTableTest.exe
+C:\Users\alex\Desktop\Pool DataTable\1\DataTableTest\obj\Debug\DataTableTest.pdb
+C:\Users\Даниил\Desktop\DT final\DataTableTest\bin\Debug\DataTableTest.exe.config
+C:\Users\Даниил\Desktop\DT final\DataTableTest\bin\Debug\DataTableTest.exe
+C:\Users\Даниил\Desktop\DT final\DataTableTest\bin\Debug\DataTableTest.pdb
+C:\Users\Даниил\Desktop\DT final\DataTableTest\obj\Debug\DataTableTest.csprojAssemblyReference.cache
+C:\Users\Даниил\Desktop\DT final\DataTableTest\obj\Debug\DataTableTest.Form1.resources
+C:\Users\Даниил\Desktop\DT final\DataTableTest\obj\Debug\DataTableTest.Properties.Resources.resources
+C:\Users\Даниил\Desktop\DT final\DataTableTest\obj\Debug\DataTableTest.csproj.GenerateResource.cache
+C:\Users\Даниил\Desktop\DT final\DataTableTest\obj\Debug\DataTableTest.exe
+C:\Users\Даниил\Desktop\DT final\DataTableTest\obj\Debug\DataTableTest.pdb
+C:\Users\Даниил\Desktop\DT final\DataTableTest\obj\Debug\DataTableTest.View.CreateTable.resources
+C:\Users\Даниил\Desktop\DT final\DataTableTest\obj\Debug\DataTableTest.View.ChangeTable.resources
+C:\Users\Даниил\Desktop\DT final — копия\DataTableTest\bin\Debug\DataTableTest.exe.config
+C:\Users\Даниил\Desktop\DT final — копия\DataTableTest\bin\Debug\DataTableTest.exe
+C:\Users\Даниил\Desktop\DT final — копия\DataTableTest\bin\Debug\DataTableTest.pdb
+C:\Users\Даниил\Desktop\DT final — копия\DataTableTest\obj\Debug\DataTableTest.csprojAssemblyReference.cache
+C:\Users\Даниил\Desktop\DT final — копия\DataTableTest\obj\Debug\DataTableTest.View.ChangeTable.resources
+C:\Users\Даниил\Desktop\DT final — копия\DataTableTest\obj\Debug\DataTableTest.View.CreateTable.resources
+C:\Users\Даниил\Desktop\DT final — копия\DataTableTest\obj\Debug\DataTableTest.Form1.resources
+C:\Users\Даниил\Desktop\DT final — копия\DataTableTest\obj\Debug\DataTableTest.Properties.Resources.resources
+C:\Users\Даниил\Desktop\DT final — копия\DataTableTest\obj\Debug\DataTableTest.csproj.GenerateResource.cache
+C:\Users\Даниил\Desktop\DT final — копия\DataTableTest\obj\Debug\DataTableTest.exe
+C:\Users\Даниил\Desktop\DT final — копия\DataTableTest\obj\Debug\DataTableTest.pdb
